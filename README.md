@@ -8,5 +8,5 @@ This is the raw conversion which will easily allow changes to constants used in 
 
 UTMtoLatLongWGS84Zone15
 -----------------------
-If you know you're constants are going to be the same for all your data points, (i.e. you're always going to use the WGS84 data and all you're points are in the same hemisphere and zone) you can pre-calculate most of the equation for a smaller code footprint.  It's also potentially faster depending on the number of points you'll be converting.
+If you know your constants are going to be the same for all your data points, (i.e. you're always going to use the WGS84 data and all you're points are in the same hemisphere and zone) you can pre-calculate most of the equation for a smaller code footprint.  It's also potentially faster depending on the number of points you'll be converting.
 
